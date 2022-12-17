@@ -15,9 +15,9 @@ body{
 .formContainer input{
     font: 1em sans-serif;
     font-weight: 600;
-    text-align: center;
+    text-align: left;
     margin: 5px 10px;
-    padding: 8px 10px;
+    padding: 8px 20px;
     width: 300px;
     border: 2px solid ghostwhite;
     border-radius: 8px;
